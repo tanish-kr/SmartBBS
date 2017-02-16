@@ -4,3 +4,6 @@ app/tmp/*
 app/config/database.php
 !empty
 log/*
+*.swp
+*.swo
+.DS_Store
